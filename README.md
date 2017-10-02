@@ -44,6 +44,7 @@ node {
 
 # Pipeline Job
 ```
+1)Create new pipleline job 
 1)Choose Pipeline script from SCM
 2)SCM as GIT 
 3)Repo URL : https://github.com/Lforlinux/jenkins-pipeline.git

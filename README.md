@@ -42,6 +42,14 @@ node {
 ```
 
 
+# Pipeline Job
+```
+1)Choose Pipeline script from SCM
+2)SCM as GIT 
+3)Repo URL : https://github.com/Lforlinux/jenkins-pipeline.git
+4)Select */master branch to build
+```
+
 ## Where to go from here?
 
 Now that you have a minimal example running, here are some ideas on how to dig further:
